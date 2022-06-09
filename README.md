@@ -31,3 +31,7 @@ I am a Fivem Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zxdexusxz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
