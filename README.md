@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zentroxx/Zentroxx/main/header.png" width="600" height="300"/>
+  <img src="https://raw.githubusercontent.com/zentroxx/Zentroxx/main/header.png"/>
 </div>
 
 ---
