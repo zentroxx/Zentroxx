@@ -34,4 +34,4 @@ I am a Fivem Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Algolia)](https://github.com/piyushsuthar/github-readme-quotes)
