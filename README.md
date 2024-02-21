@@ -13,8 +13,8 @@
 
 I am a Fivem Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
 
-- I develop on a FiveM server called SHARP.
-- I have worked on LUA for 3 years now, and JS for 1 year. I'm still a Pepega.
+- I develop on a FiveM server called NXT.
+- I have worked on LUA for 4 years now, and JS for 1 year. I'm still a Pepega.
 - I was not born with ski on my feets.
 
 ---
